@@ -7,6 +7,11 @@
 - **Languages**: *Python*, *HTML*, *CSS*, *JavaScript*, *React*, *Csharp*, *MySQL*
 - **Tools**: *VS Code*, *Pycharm*, *Datagrip*, *MySQL Workbench*, *Git*, *Linux(ElementaryOS 7.1)*
 - **Subjects**: *Cross-platform Web Design*, *Database*, *Web Programming*
+- **Interest & Hobbies**:
+  - *Linux CLI*: Love mastering Linux command line.
+  - *Vim*: Eager to become proficient in Vim.
+  - *ChatGPT*: Heavy user, exploring its capabilities.
+  - *Raspberry Pi Coding*: Currently experimenting with coding on Raspberry Pi.
 
 ## 🌐 Projects
 
