@@ -4,9 +4,9 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, HTML, CSS, JavaScript
-- **Tools**: VS Code, Pycharm, Datagrip, Git
-- **Subjects**: Cross-platform Web Design, Database, Web Programming
+- **Languages**: *Python*, *HTML*, *CSS*, *JavaScript*, *React*, *Csharp*, *MySQL*
+- **Tools**: *VS Code*, *Pycharm*, *Datagrip*, *MySQL Workbench*, *Git*, *Linux(ElementaryOS 7.1)*
+- **Subjects**: *Cross-platform Web Design*, *Database*, *Web Programming*
 
 ## 🌐 Projects
 
